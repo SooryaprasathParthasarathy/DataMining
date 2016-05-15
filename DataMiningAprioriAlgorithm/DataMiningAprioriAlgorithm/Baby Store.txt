@@ -1,0 +1,24 @@
+500 Diapers baby_milk_powder
+501 Diapers baby_milk_powder toys
+502 Diapers toys
+503 baby_milk_powder toys
+504 toys bib
+505 toys cereals bib
+507 baby_dress bib
+508 baby_dress Diapers bib
+509 baby_dress Diapers bib toys
+510 stroller blanket 
+511 stroller blanket Diapers
+512 stroller blanket Diapers toys
+513 cereals bib
+514 cereals baby_dress
+515 baby_oil baby_powder
+516 baby_oil baby_powder baby_shampoo
+517 baby_shampoo bathrobe
+518 baby_shampoo bathrobe towel
+519 baby_shampoo bathrobe towel cereals
+
+
+
+
+

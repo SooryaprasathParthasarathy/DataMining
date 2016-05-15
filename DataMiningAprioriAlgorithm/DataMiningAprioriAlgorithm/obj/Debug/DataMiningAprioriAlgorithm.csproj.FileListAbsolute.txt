@@ -1,0 +1,10 @@
+c:\users\soory_000\documents\visual studio 2012\Projects\DataMiningAprioriAlgorithm\DataMiningAprioriAlgorithm\bin\Debug\DataMiningAprioriAlgorithm.exe.config
+c:\users\soory_000\documents\visual studio 2012\Projects\DataMiningAprioriAlgorithm\DataMiningAprioriAlgorithm\obj\Debug\DataMiningAprioriAlgorithm.csprojResolveAssemblyReference.cache
+c:\users\soory_000\documents\visual studio 2012\Projects\DataMiningAprioriAlgorithm\DataMiningAprioriAlgorithm\obj\Debug\DataMiningAprioriAlgorithm.Form1.resources
+c:\users\soory_000\documents\visual studio 2012\Projects\DataMiningAprioriAlgorithm\DataMiningAprioriAlgorithm\obj\Debug\DataMiningAprioriAlgorithm.Properties.Resources.resources
+c:\users\soory_000\documents\visual studio 2012\Projects\DataMiningAprioriAlgorithm\DataMiningAprioriAlgorithm\obj\Debug\DataMiningAprioriAlgorithm.csproj.GenerateResource.Cache
+c:\users\soory_000\documents\visual studio 2012\Projects\DataMiningAprioriAlgorithm\DataMiningAprioriAlgorithm\bin\Debug\DataMiningAprioriAlgorithm.exe
+c:\users\soory_000\documents\visual studio 2012\Projects\DataMiningAprioriAlgorithm\DataMiningAprioriAlgorithm\bin\Debug\DataMiningAprioriAlgorithm.pdb
+c:\users\soory_000\documents\visual studio 2012\Projects\DataMiningAprioriAlgorithm\DataMiningAprioriAlgorithm\obj\Debug\DataMiningAprioriAlgorithm.exe
+c:\users\soory_000\documents\visual studio 2012\Projects\DataMiningAprioriAlgorithm\DataMiningAprioriAlgorithm\obj\Debug\DataMiningAprioriAlgorithm.pdb
+C:\Users\soory_000\documents\visual studio 2012\Projects\DataMiningAprioriAlgorithm\DataMiningAprioriAlgorithm\obj\Debug\DataMiningAprioriAlgorithm.DatabaseSelectionForm.resources

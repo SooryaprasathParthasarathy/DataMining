@@ -1,0 +1,21 @@
+﻿100 cycle helmet
+110 cycle helmet car_rack
+120 cycle car_rack 
+130 cycle helmet seat
+140 cycle helmet seat car_rack
+150 cycle pump helmet
+160 cycle pump helmet seat
+170 cycle pump helmet seat car_rack
+180 wheel mudguard
+190 wheel mudguard tyre
+200 cycle pump
+210 chain wheel
+215 chain mudguard
+220 chain wheel mudguard
+230 chain wheel mudguard tyre
+240 cycle seat
+250 seat pedals
+260 cycle mudguard helmet
+270 helmet pump
+280 tyre wheel
+

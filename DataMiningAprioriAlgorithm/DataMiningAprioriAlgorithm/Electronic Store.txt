@@ -1,0 +1,22 @@
+100 Samsung_phone Samsung_earphones
+200 Samsung_phone Samsung_earphones Bluetooth
+300 Samsung_phone Samsung_earphones Bluetooth Headphones
+400 Micromax_mobile Micromax_headphone
+500 Micromax_mobile Micromax_headphone Micromax_Speaker
+600 Micromax_mobile Micromax_Speaker Bluetooth
+700 Micromax_mobile Micromax_headphone Bluetooth Speaker
+800 Micromax_mobile Micromax_headphone Bluetooth Speaker Samsung_earphones
+900 Micromax_mobile Scratch_guard Bluetooth
+1000 Samsung_phone Samsung_earphones Scratch_gruard Bluetooth
+1100 Samsung_phone Scratch_gruard
+1200 Micromax_mobile Micromax_Speaker Scratch_Guard Bluetooth
+1300 Micromax_mobile Scratch_Guard Bluetooth
+1400 Beats_earphones Beats_Headset
+1500 Lumia Scratch_guard Bluetooth
+1600 Lumia Phone_Case Bluetooth
+1700 Lumia Phone_Case Scratch_guard Bluetooth
+1800 Micromax_mobile Phone_case Bluetooth
+1800 Samsung_phone Phone_case 
+1900 Samsung_phone Phone_case Bluetooth
+2000 Lumia_Headest Lumia_Speaker Bluetooth
+
